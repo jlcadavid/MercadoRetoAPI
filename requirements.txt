@@ -1,0 +1,12 @@
+ipaddress
+requests
+argparse
+ipaddress
+httplib2
+geopy
+datetime
+flask
+flask_restful
+psycopg2
+PyJWT
+uuid
